@@ -67,7 +67,7 @@
 
     }
 
-        - (Sub)Prompt - Para caso apresente uma estrutura da resposta, sem o conteúdo específico {
+        - (Sub)Prompt - Para caso apresente apenas uma estrutura da resposta, sem o conteúdo específico {
 
             [Estrutura da Resposta]
 
