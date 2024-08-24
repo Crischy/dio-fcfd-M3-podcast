@@ -1,5 +1,3 @@
--- ---------------------------------------------------------
-
 -- Para o projeto - Podcast:
     
     Dados gerais:
@@ -25,9 +23,7 @@
 
             - Finalização
 
--- -----------------------------
-
--- Meus Prompts:
+-- Prompts usados no projeto:
 
     - Prompt para o nome do PD { 
 
@@ -67,7 +63,7 @@
 
     }
 
-        - (Sub)Prompt - Para caso apresente apenas uma estrutura da resposta, sem o conteúdo específico {
+        - (Sub)Prompt - para caso o resultado apresente apenas a estrutura da resposta sem o conteúdo específico/real {
 
             [Estrutura da Resposta]
 
@@ -76,6 +72,6 @@
         }
 
 
--- -----------------------------
-
--- Título do Episódio: "Hóquei em Patins: Uma Introdução à Modalidade e Sua Relevância em Angola."
+--
+Título do Episódio: "Hóquei em Patins: Uma Introdução à Modalidade e Sua Relevância em Angola."
+--
