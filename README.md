@@ -45,21 +45,21 @@
 
     - Prompt para o primeiro episódio do PD { 
 
-        Aja como um especialista em Podcast desportivo, crie o roteiro para o primeiro episódio do Podcast sobre desporto, mais concretamente sobre a modalidade Hóquei em Patins, para um cliente do mercado angolano. 
+        Aja como um especialista em Podcast desportivo, crie o roteiro para o primeiro episódio do Podcast sobre desporto, mais concretamente sobre a modalidade Hóquei em Patins, cujo o nome é "Roller Angola", para um cliente do mercado angolano. 
 
         {REGRAS}
-        - Comece por designar o episódio de forma estratégica.
         - Público-Alvo: pessoas amantes de desporto, de todas as idades e géneros. 
         - O podcast é curto, rico, objetivo e de interesse geral.
         - Objetivo do Podcast: prover o conhecimento sobre o funcionamento da modalidade desportiva.
         - O Podcast retrata também a realidade da modalidade no mundo inteiro.
         - Estruture o conteúdo da melhor forma possível.
-        - Justifique a estrutura do conteúdo. 
+        - Comece por designar o episódio de forma estratégica.
+        - Justifique a estrutura do conteúdo.
 
         {REGRAS NEGATIVAS}
         - Não fale de forma extensiva.
         - Não inclua palavras em Inglês.
-        - Não exceda cinco minutos de conteúdo. 
+        - Não exceda cinco minutos de conteúdo.
 
     }
 
@@ -73,5 +73,7 @@
 
 
 --
-Título do Episódio: "Hóquei em Patins: Uma Introdução à Modalidade e Sua Relevância em Angola."
+Episódio 1:           Introdução ao Hóquei em Patins.
+Nome do Podcast:      Roller Angola.
+Slogan do Podcast:    Deslizando no ritmo do hóquei em patins.
 --
